@@ -23,9 +23,12 @@ I build practical automation systems: Python backends, browser/workspace tooling
 - [math-captcha-ml-pipeline](https://github.com/alexE-895/math-captcha-ml-pipeline)  
   Synthetic math captcha recognition pipeline with dataset generation, model training, evaluation, CLI inference, FastAPI, and Docker.
 
+- [browser-environment-diagnostics](https://github.com/alexE-895/browser-environment-diagnostics)  
+  Browser runtime diagnostics, profile schema validation, device catalog tooling, route checks, and guarded launch UI in Python.
+
 ## Stack
 
-Python, FastAPI, Flask, Playwright, Node.js, Docker, Linux, Git, SQL, REST APIs, WebSockets, scikit-learn, Pillow.
+Python, FastAPI, Flask, Playwright, Node.js, Docker, Linux, Git, SQL, REST APIs, WebSockets, scikit-learn, Pillow, CustomTkinter.
 
 ## Work Style
 
