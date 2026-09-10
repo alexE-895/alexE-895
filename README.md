@@ -4,13 +4,13 @@ I build practical backend and automation systems: API services, AI-assisted deve
 
 ## Focus
 
-- backend architecture, REST APIs, service/repository layering
+- Backend architecture, REST APIs, service/repository layering
 - Python automation, FastAPI services, WebSocket flows, CLI utilities
 - Haskell backend development with Servant, PostgreSQL and ClickHouse
 - AI-assisted developer workflows, LLM integrations and local AI workbenches
-- data integrations, migrations, workers, object storage and observability
+- Data integrations, migrations, workers, object storage and observability
 - Docker, Kubernetes, Nix, GitHub Actions and reproducible test pipelines
-- safe handling of configs, logs, tokens, and runtime artifacts
+- Safe handling of configs, logs, tokens, and runtime artifacts
 
 ## Featured Projects
 
@@ -36,3 +36,9 @@ Python, FastAPI, Flask, Haskell, Servant, PostgreSQL, ClickHouse, SQL, REST APIs
 ## Work Style
 
 I prefer measurable results: reproducible checks, clear documentation, safe config boundaries, explicit trade-offs, and code that can be reviewed and run without private data.
+
+## Contact
+
+For project discussion, code review, or hiring context, open a GitHub issue in a relevant repository or contact me through GitHub:
+
+- GitHub: https://github.com/alexE-895
